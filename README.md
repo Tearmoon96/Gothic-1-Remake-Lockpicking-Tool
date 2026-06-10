@@ -3,5 +3,7 @@ Since lockpicking is stupidly hard i made this tool. Pistons are counted from le
 
 Each folder contains the respective `.py` source code and a `requirements.txt` file to install the required dependencies.
 
+Neither of the two versions ( windows or linux ) inject anything into the game or the system. If you don't trust the .exe review the python code and build your own
+
 ### ⚠️ Disclaimer
-**Please Note:** The Windows 11 version of this solver was ported and generated entirely from the Linux codebase using an AI tool. As a result, it has not been thoroughly tested on a native Windows operating system. Please keep this in mind while using it, as you may encounter unexpected behavior.
+**Please Note:** The Windows 11 version of this solver was not tested as thoroughly as the linux version. The tool is just a home project and might have bugs, you can take it and use it as you like.
